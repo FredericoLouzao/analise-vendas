@@ -1,2 +1,2 @@
 # analise-vendas
-Analise vendas fictícia case  
+Analise vendas fictícias case. 
