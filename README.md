@@ -15,4 +15,4 @@ Este projeto faz uma análise descritiva de um dataset fictício de vendas, cont
 ## 📚 Bibliotecas utilizadas
 pandas
 
-matplotlib (opcional para gráficos)
+Matplotlib (opcional para gráficos)
