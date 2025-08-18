@@ -19,3 +19,7 @@ pip install pandas matplotlib jupyter
 Pandas
 Matplotlib (opcional para gráficos)
 Jupyter (para executar os notebooks)
+
+## 📦 Dados do Case
+Os dados utilizados neste projeto estão disponíveis no link abaixo:
+https://drive.google.com/file/d/1LoXUj9gMZcJ9tBWplp1_ovV2vUKrjX-0/view?usp=sharing
