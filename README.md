@@ -12,14 +12,14 @@ Este projeto faz uma análise descritiva de um dataset fictício de vendas, cont
 
 ```bash
 pip install pandas
-pip install matplotlib.pyplot
+pip install matplotlib
 ```
 
 ## 📚 Bibliotecas utilizadas
 
 Pandas,
 
-Matplotlib.pyplot (opcional para gráficos)
+Matplotlib (opcional para gráficos)
 
 ### 🧠 Decisões de implementação
 
