@@ -16,7 +16,7 @@ pip install pandas matplotlib jupyter
 
 ## 📚 Bibliotecas utilizadas
 
-Pandas
+Pandas,
 Matplotlib (opcional para gráficos)
 
 ## 📦 Dados do Case
