@@ -18,7 +18,8 @@ pip install matplotlib.pyplot
 ## 📚 Bibliotecas utilizadas
 
 Pandas,
-Matplotlib (opcional para gráficos)
+
+matplotlib.pyplot (opcional para gráficos)
 
 ### 🧠 Decisões de implementação
 
