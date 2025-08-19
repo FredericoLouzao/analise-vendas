@@ -24,7 +24,7 @@ Matplotlib.pyplot (opcional para gráficos)
 ### 🧠 Decisões de implementação
 
 - Foi utilizada a biblioteca pandas para manipulação e agregações.
-- Para o cálculo do ticket médio, dividiu-se a receita total pelo número de compras por cliente.
+- Para o cálculo do ticket médio, dividiu-se a soma da receita total pelo número de transações totais distintas.
 - O gráfico de faturamento mensal foi gerado com matplotlib para melhor visualização temporal.
 - Utilizou-se um gráfico de barra horizontal para facilitar a leitura do top 10 produtos.
 - Uma barra única empilhada foi usada para mostrar a proporção de clientes acima e abaixo da média.
