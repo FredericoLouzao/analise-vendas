@@ -19,7 +19,7 @@ pip install matplotlib.pyplot
 
 Pandas,
 
-matplotlib.pyplot (opcional para gráficos)
+Matplotlib.pyplot (opcional para gráficos)
 
 ### 🧠 Decisões de implementação
 
