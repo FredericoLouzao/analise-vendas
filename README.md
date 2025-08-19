@@ -11,7 +11,8 @@ Este projeto faz uma análise descritiva de um dataset fictício de vendas, cont
 2. Instale as dependências:  
 
 ```bash
-pip install pandas matplotlib jupyter
+pip install pandas
+pip install matplotlib.pyplot
 ```
 
 ## 📚 Bibliotecas utilizadas
