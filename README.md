@@ -29,9 +29,6 @@ Matplotlib (opcional para gráficos)
 - Utilizou-se um gráfico de barra horizontal para facilitar a leitura do top 10 produtos.
 - Uma barra única empilhada foi usada para mostrar a proporção de clientes acima e abaixo da média.
 
-## 📦 Dados do Case
-Os dados utilizados neste projeto estão disponíveis no link abaixo:
-https://drive.google.com/file/d/1LoXUj9gMZcJ9tBWplp1_ovV2vUKrjX-0/view?usp=sharing
 
 ## 📊 Resultados
 
@@ -47,3 +44,6 @@ https://drive.google.com/file/d/1LoXUj9gMZcJ9tBWplp1_ovV2vUKrjX-0/view?usp=shari
 ### Gastos por cliente X TM Geral 
 <img width="876" height="251" alt="image" src="https://github.com/user-attachments/assets/9b1b49f2-d624-4f84-9daf-683781dc9ffb" />
 
+## 📦 Dados do Case
+Os dados utilizados neste projeto estão disponíveis no link abaixo:
+https://drive.google.com/file/d/1LoXUj9gMZcJ9tBWplp1_ovV2vUKrjX-0/view?usp=sharing
