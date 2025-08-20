@@ -33,8 +33,17 @@ Matplotlib (opcional para gráficos)
 Os dados utilizados neste projeto estão disponíveis no link abaixo:
 https://drive.google.com/file/d/1LoXUj9gMZcJ9tBWplp1_ovV2vUKrjX-0/view?usp=sharing
 
+## 📊 Resultados
+
+### Top 10 Produtos com Maior Faturamento
 <img width="1393" height="755" alt="image" src="https://github.com/user-attachments/assets/1ff1aa91-dde5-4767-97ab-994aa15dd2a7" />
+
+### Top 10 Produtos Mais Vendidos (por Volume)
 <img width="1414" height="774" alt="image" src="https://github.com/user-attachments/assets/2ad750cb-6be5-4fab-9c98-e474f9c5bb80" />
-<img width="1417" height="786" alt="image" src="https://github.com/user-attachments/assets/e9d473ab-b88d-4798-acd2-68f8502e4cb3" />
-<img width="786" height="287" alt="image" src="https://github.com/user-attachments/assets/1622fb19-0fee-4dfa-938f-fd178498aeb4" />
-<img width="873" height="250" alt="image" src="https://github.com/user-attachments/assets/52cfed9f-f228-402e-ba0f-f49e29cbecd2" />
+
+### Proporção Itens Vendidos
+<img width="776" height="277" alt="image" src="https://github.com/user-attachments/assets/827c65ca-0cb7-44b0-a733-407d2cb4d65b" />
+
+### Gastos por cliente X TM Geral 
+<img width="876" height="251" alt="image" src="https://github.com/user-attachments/assets/9b1b49f2-d624-4f84-9daf-683781dc9ffb" />
+
