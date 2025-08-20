@@ -44,6 +44,13 @@ Matplotlib (opcional para gráficos)
 ### Gastos por cliente X TM Geral 
 <img width="876" height="251" alt="image" src="https://github.com/user-attachments/assets/9b1b49f2-d624-4f84-9daf-683781dc9ffb" />
 
+## 📈 Conclusões
+
+- O produto `4509.202` lidera tanto em faturamento quanto em volume, mostrando grande relevância no portfólio.  
+- O código `KP.211.17` aparece no ranking de faturamento, mas não no de volume — indicando alto valor unitário.  
+- A receita está concentrada em poucos produtos, o que sugere dependência de um portfólio limitado.  
+- Há oportunidade de explorar melhor produtos de médio volume para diversificação. 
+
 ## 📦 Dados do Case
 Os dados utilizados neste projeto estão disponíveis no link abaixo:
 https://drive.google.com/file/d/1LoXUj9gMZcJ9tBWplp1_ovV2vUKrjX-0/view?usp=sharing
