@@ -32,3 +32,5 @@ Matplotlib (opcional para gráficos)
 ## 📦 Dados do Case
 Os dados utilizados neste projeto estão disponíveis no link abaixo:
 https://drive.google.com/file/d/1LoXUj9gMZcJ9tBWplp1_ovV2vUKrjX-0/view?usp=sharing
+
+<img width="1393" height="755" alt="image" src="https://github.com/user-attachments/assets/1ff1aa91-dde5-4767-97ab-994aa15dd2a7" />
